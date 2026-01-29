@@ -8,6 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to my research website. This is an update.
 
 - [Getting started](01-getting-started.html)
